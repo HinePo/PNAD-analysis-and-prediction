@@ -1,5 +1,4 @@
 # PNAD-analysis-and-prediction
-
 PNAD: Pesquisa Nacional por Amostra de Domicílios - IBGE: Brazilian social database
 
 In this article I will study the PNAD database from 2015. It is contained:
