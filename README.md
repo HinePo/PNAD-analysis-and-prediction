@@ -12,6 +12,6 @@ In this article I will study the PNAD database from 2015. It is contained:
 7.  Regression Modeling (many regression models tested)
 8.  Models Evaluation (RMSE)
 9.  Training the best model
-10. Final results and Conclusions
+10. Final Results and Conclusions
 
 Message me if you think of some possible improvement!
